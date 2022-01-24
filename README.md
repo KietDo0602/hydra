@@ -1,10 +1,10 @@
 # Hydra C++ Card Game
 
-A simple C++ program that implements the card game Hydra teached in CS246.
+A C++ program that implements the card game Hydra teached in CS246.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is the C++ implementation of the card game Hydra, that can be played by infinite players, and only ends when a player have no cards left.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ make
 
 Request if find any possible error
 
-## Authors
+## Author
 
 Kiet Do
 
