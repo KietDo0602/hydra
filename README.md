@@ -1,6 +1,6 @@
 # Hydra C++ Card Game
 
-A C++ program that implements the card game Hydra teached in CS246.
+A C++ program that implements the card game Hydra in CS246.
 
 ## Description
 
